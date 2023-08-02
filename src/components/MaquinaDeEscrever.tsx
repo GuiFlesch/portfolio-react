@@ -26,7 +26,7 @@ export function MaquinaDeEscrever(props: any) {
         </p>
         
           {mostrarCursor && (
-              <span className="animate-animar-cursor text-xl md:text-2xl ml-1 font-medium">
+              <span className="animate-animar-cursor text-xl md:text-2xl ml-1 font-medium pt-1">
                 |
             </span>
           )}
