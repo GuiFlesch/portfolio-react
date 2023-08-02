@@ -7,6 +7,18 @@ module.exports = {
   ],
   theme: {
     extend: {
+      keyframes: {
+        "animar-cursor": {
+          "0%": {
+            color: "rgb(124 58 237)"
+          },
+          "100%": "rgba(0,0,0,0)",
+        },
+      },
+      animation: {
+        "animar-cursor": "animar-cursor .8s infinite",
+      },
+    
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
