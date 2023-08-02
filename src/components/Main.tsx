@@ -31,7 +31,7 @@ export default function Main() {
           </div>
         </div>
       <h2 className="text-white tracking-wide font-normal text-base flex mb-6">
-      Desenvolvedor criativo, motivado em fornecer soluções web de alto impacto que atendam às necessidades <br /> e desafios dos mais diferentes segmentos e organizações.
+      Desenvolvedor criativo, motivado em fornecer soluções web de alto impacto que atendam<br /> às necessidades  e desafios dos mais diferentes segmentos e organizações.
       </h2>
       <div className="absolute right-36 hover:scale-110 duration-300 hover:rotate-3">
       <Image 
