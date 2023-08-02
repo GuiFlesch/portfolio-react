@@ -17,7 +17,7 @@ export default function Main() {
           <div>
             <MaquinaDeEscrever
               text="Guilherme Flesch"
-              className="text-3xl text-white py-1"
+              className="text-4xl font-bold text-white py-1"
               delay={1300}
               esconderCursor
             />
@@ -25,7 +25,7 @@ export default function Main() {
           <div>
             <MaquinaDeEscrever
               text="Front-end Developer"
-              className="text-3xl bg-gradient-to-r from-[#7441F6] to-[#D400D3] bg-clip-text text-transparent w-[28%]"
+              className="text-4xl font-bold bg-gradient-to-r from-[#7441F6] to-[#D400D3] bg-clip-text text-transparent w-[28%]"
               delay={2800}
             />
           </div>
