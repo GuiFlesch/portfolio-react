@@ -10,7 +10,7 @@ export default function Main() {
           <div>
             <MaquinaDeEscrever
               text="Olá, eu sou"
-              className="text-2xl text-white py-1"
+              className="text-3xl text-white py-1"
               esconderCursor
             />
           </div>
