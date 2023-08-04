@@ -25,7 +25,7 @@ export default function Main() {
           <div>
             <MaquinaDeEscrever
               text="Front-end Developer"
-              className="text-4xl font-bold bg-gradient-to-r from-[#7441F6] to-[#D400D3] bg-clip-text text-transparent w-[28%]"
+              className="text-4xl font-bold bg-gradient-to-r from-[#4F41F6] to-[#00BBD4] bg-clip-text text-transparent w-[28%]"
               delay={2800}
             />
           </div>
@@ -35,7 +35,7 @@ export default function Main() {
       </h2>
       <div className="absolute right-36 hover:scale-110 duration-300 hover:rotate-3">
       <Image 
-      src="/GFlesch-img.png"
+      src="/GFlesch-img-2.png"
       width={400}
       height={400}
       alt="Foto de Guilherme Flesch"/>
