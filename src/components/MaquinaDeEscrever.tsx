@@ -21,7 +21,7 @@ export function MaquinaDeEscrever(props: any) {
   }, []);
   return (
       <div className={`flex ${props.className ?? ""}`}>
-        <p>
+        <p className="h-9 md:h-11">
           {text}
         </p>
         
@@ -30,6 +30,7 @@ export function MaquinaDeEscrever(props: any) {
                 |
             </span>
           )}
+          
       </div>
   );
 }
