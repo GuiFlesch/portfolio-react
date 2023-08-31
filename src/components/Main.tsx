@@ -5,7 +5,7 @@ import { IconUser } from "@tabler/icons-react";
 
 export default function Main() {
   return (
-    <main className="flex flex-col md:flex-row mx-auto h-max w-full pt-3 gap-2 md:mt-24 items-center">
+    <main className="flex flex-col md:flex-row md:pb-44 mx-auto h-max w-full pt-3 gap-2 md:mt-24 items-center">
       <div className="flex flex-col w-full gap-2">
  
         <h1 className="text-3xl text-white py-1">Olá, eu sou</h1>

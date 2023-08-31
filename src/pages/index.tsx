@@ -1,3 +1,4 @@
+import Experience from "@/components/Experiences";
 import Header from "@/components/Header";
 import Main from "@/components/Main";
 import Pagina from "@/components/Pagina";
@@ -13,6 +14,7 @@ export default function Home() {
       <Main />
       <SectionAbout/>
       <Skills />
+      <Experience/>
     </Pagina>
   );
 }

@@ -16,12 +16,6 @@ module.exports = {
         },
         "hrAnimation": {
           "0%": {
-            color: "rgb(124 58 237)"
-          },
-          "100%": "rgba(0,0,0,0)",
-        },
-        "hrAnimation": {
-          "0%": {
             background: "linear-gradient(90deg, #4F41F6 0%, #C6C6C6 0%, #4F41F6 10%)"
           },
           "3%": {
@@ -178,7 +172,7 @@ module.exports = {
       },
       animation: {
         "animar-cursor": "animar-cursor .8s infinite",
-        "hrAnimation": "hrAnimation 1s infinite",
+        "hrAnimation": "hrAnimation 1s infinite",   
       },
     
       backgroundImage: {
@@ -188,5 +182,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins:[],
 }
