@@ -24,8 +24,6 @@ export default function SectionAbout() {
       <div className="mt-3">
         <Button nome="Download CV" icone={<IconDownload />} />
       </div>
-      <br />
-      <p></p>
     </section>
   );
 }

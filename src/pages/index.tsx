@@ -1,4 +1,4 @@
-import Experience from "@/components/Experiences";
+import Experience from "@/components/Experience";
 import Header from "@/components/Header";
 import Main from "@/components/Main";
 import Pagina from "@/components/Pagina";

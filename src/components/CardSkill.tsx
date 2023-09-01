@@ -9,7 +9,7 @@ interface CardSkillProps {
 export default function CardSkill(props: CardSkillProps) {
   return (
     <div
-      className={`flex flex-col bg-gray-700 h-[120px] w-[120px] gap-3 rounded-tl-3xl items-center justify-center text-[#4F41F6] font-bold border-b-4 border-[#4F41F6] ${
+      className={`flex flex-col bg-[#212121] h-[120px] w-[120px] gap-3 rounded-tl-3xl items-center justify-center text-[#4F41F6] font-bold border-b-4 border-[#4F41F6] ${
         props.className ?? ""
       }`}
     >
